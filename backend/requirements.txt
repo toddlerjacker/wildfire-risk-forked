@@ -3,3 +3,5 @@ python-dotenv
 pandas
 joblib
 openmeteo-requests
+requests-cache
+retry-requests
